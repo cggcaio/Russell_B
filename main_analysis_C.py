@@ -18,6 +18,7 @@ results = pd.DataFrame([], columns=columns)
 # PARAMETERS
 driver_main = ['C']
 impostor = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+impostor = ['A', 'B', 'C', 'D', 'E']
 n_clusters = [1]
 selected_features = ['Intake_air_pressure','Engine_soacking_time', 'Long_Term_Fuel_Trim_Bank1', 'Torque_of_friction', 'Engine_coolant_temperature', 'Steering_wheel_speed']
 window_size = [3, 5, 10, 30]
