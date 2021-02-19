@@ -1,0 +1,5 @@
+,Method,Time_Window,Driver,Impostors,Method_Parameters,%_FAR,Min_Time_Detection(s),Average_Time_Detection(s),Max_Time_Detection(s),Standard_deviation(s),%_FRR,Min_Time_Detection(s),Average_Time_Detection(s),Max_Time_Detection(s),Standard_deviation(s),Number_clusters
+0,DBSCAN,3,C,"['A', 'B', 'D', 'E']",{'eps': [0.39999999999999997]},90.88,3,127.6092715231788,5346,554.9645581274003,0.0,1501,1501.0,1501,,1
+0,DBSCAN,5,C,"['A', 'B', 'D', 'E']",{'eps': [0.49999999999999994]},89.21,5,135.9113475177305,5198,558.2552789948161,0.0,1501,1501.0,1501,,1
+0,DBSCAN,10,C,"['A', 'B', 'D', 'E']",{'eps': [0.8500000000000002]},93.3,10,322.008064516129,6707,952.80084761664,0.0,1502,1502.0,1502,,1
+0,DBSCAN,30,C,"['A', 'B', 'D', 'E']",{'eps': [1.6500000000000008]},94.45,30,601.2647058823529,13056,1799.426339911024,0.07,116,767.0,1418,920.6530291048849,1
